@@ -1,0 +1,15 @@
+body{
+	margin: 0px;
+
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+.gridElement{
+
+	min-width : 100px;
+	height : 100px;
+	background-color: black;
+}
